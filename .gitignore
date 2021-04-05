@@ -1,0 +1,14 @@
+/node_modules
+/.next
+.env_backup
+/pages/test.js
+/pages/test2.js
+/sessions
+/template
+/.git
+/.git-old
+/.well-known
+/.vscode
+/compiled
+/static/upload/images/*
+package-lock.json
